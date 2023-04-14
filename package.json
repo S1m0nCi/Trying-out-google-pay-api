@@ -1,0 +1,17 @@
+{
+    "name": "google-pay-api-file",
+    "dependencies": {},
+    "main": "main.js", 
+    "scripts": {
+		"start": "node server.js"
+	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/S1m0nCi/Trying-out-google-pay-api.git"
+    },
+    "author": "Simon Ciavarro",
+    "description": "Trying out the Google Pay API",
+    "keywords": ["Google Pay API"],
+    "license": "MIT",
+    "version": "1.0.0"
+}
